@@ -1,6 +1,6 @@
 ### 安装 Sublime Text 3 自定制文件
 
-1. 在新系统上 sublime 3/2 安装好之后
+1. 在新系统上 sublime 3 安装好之后
 
 ```console
 cd ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/User/

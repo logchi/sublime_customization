@@ -1,3 +1,5 @@
 [
-    { "keys": ["shift+tab"], "command": "reindent" , "args": { "single_line": false } }
+    { "keys": ["shift+tab"], "command": "reindent" , "args": { "single_line": false } },
+
+    { "keys": ["alt+space"], "command": "auto_complete" }
 ]

@@ -6,8 +6,8 @@
 	"installed_packages":
 	[
 		"AdvancedNewFile",
-		"Autoprefixer",
 		"DocBlockr",
+		"Emmet",
 		"Git",
 		"Handlebars",
 		"jQuery",

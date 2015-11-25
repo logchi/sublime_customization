@@ -1,4 +1,5 @@
 {
+	"auto_complete_commit_on_tab": true,
 	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
 	"file_exclude_patterns":
 	[
@@ -16,13 +17,12 @@
 	"font_size": 18,
 	"ignored_packages":
 	[
-		"Vintage",
-		"PHP"
+		"PHP",
+		"Vintage"
 	],
 	"line_padding_bottom": 4,
 	"line_padding_top": 4,
 	"theme": "Material-Theme.sublime-theme",
 	"translate_tabs_to_spaces": true,
-	"trim_trailing_white_space_on_save": true,
-	"auto_complete_commit_on_tab": true
+	"trim_trailing_white_space_on_save": true
 }

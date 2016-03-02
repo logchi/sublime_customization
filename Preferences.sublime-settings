@@ -1,6 +1,9 @@
 {
+	"auto_complete_delay": 5,
+    "auto_complete_selector": "source, text",
 	"auto_complete_commit_on_tab": true,
 	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
+	"create_window_at_startup": false,
 	"file_exclude_patterns":
 	[
 		".DS_Store",
@@ -12,13 +15,16 @@
 		".git",
 		"log",
 		"tmp/cache",
-		".vagrant"
+		".vagrant",
+		".svn",
 	],
 	"font_size": 16,
 	"ignored_packages":
 	[
 		"PHP",
-		"Vintage"
+		"Vintage",
+		"Markdown",
+        "Vintage"
 	],
 	"line_padding_bottom": 3,
 	"line_padding_top": 3,

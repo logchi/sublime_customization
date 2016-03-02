@@ -10,3 +10,5 @@ rm -rf sublime_customization
 ```
 
 2. 到 https://packagecontrol.io/installation 安装 packagecontrol 。这样所有的包会自动安装上。
+
+3. 参考 https://www.sublimetext.com/docs/3/osx_command_line.html 在 terminal 中用 sublime 打开文件或项目。

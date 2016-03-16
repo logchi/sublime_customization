@@ -1,7 +1,7 @@
 {
-	"auto_complete_delay": 5,
-    "auto_complete_selector": "source, text",
 	"auto_complete_commit_on_tab": true,
+	"auto_complete_delay": 5,
+	"auto_complete_selector": "source, text",
 	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
 	"create_window_at_startup": false,
 	"file_exclude_patterns":
@@ -16,19 +16,23 @@
 		"log",
 		"tmp/cache",
 		".vagrant",
-		".svn",
+		".svn"
 	],
 	"font_size": 16,
 	"ignored_packages":
 	[
-		"PHP",
-		"Vintage",
 		"Markdown",
-        "Vintage"
+		"PHP",
+		"Vintage"
 	],
 	"line_padding_bottom": 3,
 	"line_padding_top": 3,
 	"theme": "Material-Theme.sublime-theme",
 	"translate_tabs_to_spaces": true,
-	"trim_trailing_white_space_on_save": true
+	"trim_trailing_white_space_on_save": true,
+	// for tern
+	"auto_complete_triggers": [
+		{"selector": "text.html", "characters": "<"},
+		{"selector": "source.js", "characters": "."}
+	]
 }

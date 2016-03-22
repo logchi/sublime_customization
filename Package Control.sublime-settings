@@ -1,0 +1,21 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"DocBlockr",
+		"Emmet",
+		"Fix Mac Path",
+		"Git",
+		"Handlebars",
+		"jQuery",
+		"Material Theme",
+		"Package Control",
+		"Sass",
+		"SyncedSideBar",
+		"TypeScript"
+	]
+}

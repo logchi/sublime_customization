@@ -1,0 +1,24 @@
+/**
+ *
+Key bindings for termjs
+https://github.com/ternjs/tern_for_sublime
+
+alt+.
+Jump to the definition of the thing that the cursor is pointing at. If there is no known code location, but it has a documentation URL associated with, this will open the documentation in your browser instead.
+
+alt+,
+Jump back to where you were when executing the previous alt+. command.
+
+alt+space
+When on a variable, select all references to that variable in the current file.
+
+alt+o
+Show quick documentation for the thing that the cursor is pointing at. Documentation includes the type, a description (if available), and documentation url (if available).
+ *
+ */
+
+[
+    { "keys": ["shift+tab"], "command": "reindent" , "args": { "single_line": false } },
+
+    { "keys": ["ctrl+alt+space"], "command": "auto_complete" }
+]

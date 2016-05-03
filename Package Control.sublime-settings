@@ -16,6 +16,7 @@
 		"Package Control",
 		"Sass",
 		"SyncedSideBar",
-		"TypeScript"
+		"TypeScript",
+		"Vue Syntax Highlight"
 	]
 }

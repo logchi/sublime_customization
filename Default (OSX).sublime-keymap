@@ -20,5 +20,5 @@ Show quick documentation for the thing that the cursor is pointing at. Documenta
 [
     { "keys": ["shift+tab"], "command": "reindent" , "args": { "single_line": false } },
 
-    { "keys": ["ctrl+alt+space"], "command": "auto_complete" }
+    { "keys": ["ctrl+alt+c"], "command": "auto_complete" }
 ]

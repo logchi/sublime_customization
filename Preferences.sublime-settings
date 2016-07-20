@@ -34,7 +34,9 @@
 	"ignored_packages":
 	[
 		"GitGutter",
+		"Handlebars",
 		"PHP",
+		"TypeScript",
 		"Vintage"
 	],
 	"line_padding_bottom": 6,

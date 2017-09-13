@@ -6,26 +6,20 @@
 	"installed_packages":
 	[
 		"AdvancedNewFile",
-		"Babel",
+		"Anaconda",
 		"BracketHighlighter",
 		"DocBlockr",
-		"EJS 2",
 		"Emmet",
 		"Fix Mac Path",
 		"Git",
 		"GitGutter",
-		"Handlebars",
 		"jQuery",
 		"JSONLint",
-		"LESS",
 		"Material Theme",
-		"nginx",
 		"Package Control",
-		"Racket",
 		"Sass",
 		"SideBarEnhancements",
 		"SyncedSideBar",
-		"TypeScript",
 		"Vue Syntax Highlight"
 	]
 }

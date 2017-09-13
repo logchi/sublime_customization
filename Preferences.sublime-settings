@@ -19,7 +19,26 @@
 	[
 		".DS_Store",
 		"*.sublime-workspace",
-		"*.scssc"
+		"*.scssc",
+		".*",
+		"*.pyc",
+		"*.pyo",
+		"*.exe",
+		"*.dll",
+		"*.obj",
+		"*.o",
+		"*.a",
+		"*.lib",
+		"*.so",
+		"*.dylib",
+		"*.ncb",
+		"*.sdf",
+		"*.suo",
+		"*.pdb",
+		"*.idb",
+		"*.class",
+		"*.psd",
+		"*.db"
 	],
 	"folder_exclude_patterns":
 	[
